@@ -23,11 +23,16 @@ Enter into the new Repository Folder
 ```shell
 cd Spark
 ```
-To be able to sync with Midburn repository you should add it as a remote:
 
 ```shell
 git remote add midburn https://github.com/Midburn/Spark.git
 ```
+
+To be able to sync with Midburn repository you should add it as a remote:
+```shell
+git clone midburn 
+```
+
 
 ### Getting Node and Yarn
 
